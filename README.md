@@ -5,4 +5,4 @@
 
 
 ## 開發時程 Dev. History.
-2020/05/16  開始開發 Start Developing
+2020/05/16  開始開發 Start Developing 完成資料讀取發送的部分
