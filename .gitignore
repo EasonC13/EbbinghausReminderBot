@@ -1,2 +1,4 @@
 *.ini
-.ipynbcheckpoints
+.ipynb_checkpoints/*
+.DataForEbbing/*
+
